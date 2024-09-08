@@ -1,6 +1,5 @@
 package com.myCalc.calculator;
 
-import jakarta.websocket.OnError;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
